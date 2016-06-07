@@ -1,0 +1,850 @@
+/* profile.......*/
+.img-responsive{
+    border-radius: 50%;
+}
+
+
+.username{
+    letter-spacing: .5px;
+    font-size: 18px;
+    padding-left: 15%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.all-footer{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    float: right;
+    padding-top: 20px;
+}
+.button-footer{
+    padding-left: 30%;
+    float: right;
+    padding-bottom: 6%;
+}
+.button-footer a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    border-radius: 400px;
+    background-color: white;
+    margin-top: 70px;
+    transition:background-color 0.2s. border 0.2s,color 0.2s;
+    margin-left: 50px 0px;
+    color: black;
+    
+}
+.button-footer a:hover{
+    background-color: #1f1f1f;
+    color: white;
+    text-decoration: none;
+}
+.edit{
+    float: right;
+}
+
+
+
+
+/* edit password....*/
+.editpassword-body{
+    padding-top: 10%;
+}
+
+
+
+/*Taken course....*/
+
+.takenCourse-body{
+    padding-top: 10px;
+}
+.btn-more{
+    background-color:#1d1d1d;
+    color:white;
+    padding-top: 5px;
+    
+}
+
+
+.single{
+    list-style: none;
+    width: 100%;
+    
+}
+.single li{
+    display: block;
+    float: left;
+    width: 25%;
+}
+.fig-img{
+    width: 100%;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.fig-img img{
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    opacity: 0.7;
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.fig-img img:hover{
+    opacity: 1;
+    transform: scale(1.03);
+}
+
+
+/*Following*/
+.followed-edit{
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+/*Personal skill*/
+
+.page-header {
+     margin-top: 50px;
+    
+     padding-left: 150px;
+     
+}
+
+.bg {
+    
+   float: right ; 
+   text-decoration: none;
+}
+
+
+
+
+/*course-lecture-page1*/
+
+.rating-icon i{
+    display: inline-block;
+}
+.rating-icon p{
+    display: inline-block;
+}
+.para-in p{
+    display: inline-block;
+}
+
+.premium p{
+    display: inline-block;
+    font-size: 15px;
+}
+.curricl-icon i{
+  display: inline-block;  
+}
+.curricl-icon h4{
+  display: inline-block;  
+}
+.insractor-bio img{
+    display: inline-block;
+}
+.insractor-bio h3{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* maruf's written codes are here for css @ started....*/
+
+
+/*Maruf's css code for index.html
+===================================*/
+
+/* message.....*/
+
+
+.student-message-textarea-sizing {
+    resize: none;
+}
+
+.student-message-sizing {
+    width: 100px;
+}
+
+
+/*sign up page css start from maruf
+==============================*/
+
+
+#sign-up-page {
+    margin-top:0px;
+    margin-left: -40px;
+    font-size: 20px;
+}
+.signup{
+  padding-left: 35%; 
+    font-size: 20px;
+    color: white;
+    padding-bottom: 5px;
+}
+
+
+.sign-up-gender {
+    font-size: 18px;
+}
+
+.sign-up-button button{
+    width: 100px;
+}
+
+.sign-up-background-color {
+    background-color: antiquewhite;
+    padding: 50px;
+}
+
+/textarea {
+    resize: none;
+}
+
+#send-and-inbox-button{
+    margin-top: 50px;
+}
+
+#send-and-inbox-button button{
+    width: 100px;
+}
+
+/*sign up page css end's here from maruf
+==============================*/
+/*  community page 
+==================*/
+
+.publish{
+    float: center;
+}
+textarea {
+    resize: none;
+}
+
+.asking-history-description{
+    margin-bottom: -2px;
+}
+
+.asking-history-reply-number{
+    color: #3838e0;
+}
+
+.asking-history-reply-number , .asking-history-view-details{
+    display: inline-block;
+    font-size: 12px;
+}
+
+.asking-history-view-details{
+    margin-left: 500px;
+}
+
+.pagination-right{
+    float: right;
+    margin-right: 100px;
+}
+
+.arrow-sign{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+
+/*  after taken course 
+==================*/
+
+
+
+
+.vedio-section {
+    padding: 30px;
+    margin-top: 50px;
+    background: #efdddd;
+}
+
+.btn-previous-lecture {
+    margin-left:  100px;
+   
+}
+
+.btn-padding {
+    margin-top: 50px;
+}
+
+.paragraph-padding {
+    margin-top: 150px;
+}
+
+.navbar-padding li{
+    padding: 0 25px;
+    font-size: 18px;
+}
+
+.single-section  h4{
+    font-weight: bold;
+}
+
+.course-lecture {
+    border-bottom: solid 1px rgba(128, 85, 85, 0.76);
+    border: solid 1px black;
+    background: white;
+}
+
+.single-section {
+    background: #F4F4F4;
+    
+}
+
+
+
+.input-search-box {
+    margin-bottom: 10px;
+    width: 275px;
+}
+
+.get-certificate {
+    text-align: center;
+}
+
+.get-certificate button{
+    font-size: 20px;
+}
+
+.input-group-addon{
+    padding: 0;
+}
+
+#form-ask-question {
+    margin-top: 40px;
+}
+
+.user-picture-shape {
+    border-radius: 50%;
+}
+
+/*quize
+=========*/
+#after-taken-course-quize {
+    margin-top: 50px;
+}
+
+/*take you into next lavel -> exam note text
+===========================================*/
+.special-note {
+    font-size: 19px;
+}
+
+/*catagory page
+================*/
+.catagory-image img{
+    width: 330px;
+    height: 125px;
+}
+
+.catagory-btn-size {
+    width: 1048px;
+}
+
+.catagory-pagination-positioning {
+    float: right;
+}
+
+
+
+.course-image-display {
+    display: block;
+}
+
+.course-image-display i{
+    display: inline-block;
+}
+
+.course-image-display p{
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    margin-left: 131px;
+}
+
+.review-and-take-course-postiotion button{
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+}
+
+.pagination-positioning {
+    float: right;
+}
+
+/*Home page
+=============*/
+#site-logo {
+   margin: 10px 0 0 75px;
+}
+
+
+
+.home-page-search-box-and-logo {
+    margin-top: 50px;
+}
+
+#search-icon {
+    width: 40px;
+}
+
+.site-logo-with-search-box {
+    
+    height: 120px;
+}
+/*
+.navbar-position {
+    padding-left:  70px;
+}*/
+
+.navbar-position li{
+    padding-left:  20px;
+}
+
+.navbar-color {
+    background:black;
+    color: #ffffff;
+    position: relative;
+    
+}
+
+/*background-image-in-home-page
+================================*/
+
+
+#home-page-background-image img{
+    /*background: url('../images/background-image.jpg') no-repeat center center fixed; 
+    width: 500px;
+    height: 500px;*/
+    min-width: 100%;
+    /* min-height: 282px; */
+    max-height: 490px;
+    margin-top: -40px;
+}
+
+
+
+/*Catagory-overview
+====================*/
+#catagory-overview {
+    background: #f2f2f4;
+    margin-top: -20px;
+    height: 500px;
+}
+
+#catagory-overview h2{
+    text-align: center;
+    /*margin-top: 50px;*/
+    font-size: 45px;
+}
+
+.overview-image{
+    padding: 0 10px;
+    min-width: 330px;
+    max-height: 124px;
+    margin: 10px 0 12px;
+}
+
+.single-catagory-overview {
+    text-align: center;
+}
+
+.single-catagory-overview p{
+    text-align: center;
+    margin: 7px 0x 10px;
+    padding: 0 50px;
+}
+
+/*website promo vedio section
+==============================*/
+#website-promo-vedio-section {
+    height: 600px;
+    width: 100%;
+}
+
+.website-promo-vedio-text-section {
+    text-align: center;
+    padding: 150px 0px 150px 30px;
+}
+
+.website-promo-vedio-text-section h2{
+    font-size: 32px;
+}
+
+.website-promo-vedio-video-section {
+        padding: 100px 0 0 100px;
+}
+
+/*website support(mobile devices)
+==================================*/
+#website-support {
+    height: 600px;
+    background: #e2e2e4;
+}
+
+.website-support-mobile-image {
+    height: 450px;
+    max-width: 434px;
+    max-height: 430px;
+    
+    /*display: inline-block;
+    float: left;*/
+}
+
+.website-support-mobile-image-position img{
+    float: left;
+    margin-top: 60px;
+}
+
+.samsung-mobile-margin {
+    margin-left: -80px;
+}
+
+.website-support-text-area {
+    margin-top: 50px;
+}
+
+.website-support-text-area img{
+    max-width: 160px;
+    max-height: 80px;
+}
+
+
+/*button for start learning
+=============================*/
+.home-page-start-learning-button{
+    margin-top: 20px;
+}
+
+.home-page-start-learning-button button{
+    width: 100%;
+    font-size: 20px;
+}
+
+/*footer
+==========*/
+#footer {
+    background: black;
+    color: white;
+    height: 150px;
+    margin-top: 20px;
+}
+
+#footer ul{
+    list-style: none;
+    padding-top: 15px;
+}
+
+#footer ul li{
+    float: left;
+    padding: 0 15px 0;
+}
+
+#footer p{
+    display: inline-block;
+    float: right;
+    margin: -5px 100px 0 0;
+}
+
+
+
+/* Maruf's css code end here for index.html
+=============================================*/
+
+
+
+
+
+.user-profile-dropdown-icon {
+    height: 50px;
+    width: 100px;
+    background: #8ad8db;
+    
+}
+/*  community page 
+==================*/
+
+textarea {
+    resize: none;
+}
+
+.asking-history-description{
+    margin-bottom: -2px;
+}
+
+.asking-history-reply-number{
+    color: #3838e0;
+}
+
+.asking-history-reply-number , .asking-history-view-details{
+    display: inline-block;
+    font-size: 12px;
+}
+
+.asking-history-view-details{
+    margin-left: 500px;
+}
+
+.pagination-right{
+    float: right;
+    margin-right: 100px;
+}
+
+.arrow-sign{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+
+/*  after taken course 
+==================*/
+
+
+
+
+.vedio-section {
+    padding: 30px;
+    margin-top: 50px;
+    background: #efdddd;
+}
+
+.btn-previous-lecture {
+    margin-left:  100px;
+   
+}
+
+.btn-padding {
+    margin-top: 50px;
+}
+
+.paragraph-padding {
+    margin-top: 150px;
+}
+
+.navbar-padding li{
+    padding: 0 25px;
+    font-size: 18px;
+}
+
+.single-section  h4{
+    font-weight: bold;
+}
+
+.course-lecture {
+    border-bottom: solid 1px rgba(128, 85, 85, 0.76);
+    border: solid 1px black;
+    background: white;
+}
+
+.single-section {
+    background: #F4F4F4;
+    
+}
+
+
+
+.input-search-box {
+    margin-bottom: 10px;
+    width: 275px;
+}
+
+.get-certificate {
+    text-align: center;
+}
+
+.get-certificate button{
+    font-size: 20px;
+}
+
+.input-group-addon{
+    padding: 0;
+}
+
+#form-ask-question {
+    margin-top: 40px;
+}
+
+.user-picture-shape {
+    border-radius: 50%;
+}
+
+/*quize
+=========*/
+#after-taken-course-quize {
+    margin-top: 50px;
+}
+
+/*take you into next lavel -> exam note text
+===========================================*/
+.special-note {
+    font-size: 19px;
+}
+
+/*catagory page
+================*/
+.catagory-image img{
+    width: 330px;
+    height: 125px;
+}
+
+.catagory-btn-size {
+    width: 1048px;
+}
+
+.catagory-pagination-positioning {
+    float: right;
+}
+
+
+
+.course-image-display {
+    display: block;
+}
+
+.course-image-display i{
+    display: inline-block;
+}
+
+.course-image-display p{
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    margin-left: 131px;
+}
+
+.review-and-take-course-postiotion button{
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+}
+
+.pagination-positioning {
+    float: right;
+}
+
+/* maruf's written codes are here for css  @ ended....*/
+
+
+
+
+/* loging page ..........................*/
+/* ...............starting................*/
+
+         .bd{
+                margin: 0 auto;
+                background-image: url(imags/aa.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height: 100vh;
+                background-position: center;
+                
+                
+            }
+
+           .log-header{
+                text-align:left;
+                padding-left:15%;
+                padding-top: 6%;
+               color: white;
+            }
+        .con{
+                text-align: center;
+                float: center;
+                padding-left:20%;
+                padding-top: 10%;
+                padding-right: 20%;
+                }
+            
+            .con frm{
+                width: 50%;
+                float: right;
+                background-color: #5070db;
+                opacity: .9;
+                border-radius: 1%;
+              }
+            .fmgp{
+             padding-left: 15%;
+             padding-right: 10%;
+            }
+            .col-sm-10{
+           // padding: 2px;;
+            }
+            .use-input{
+                height: 65%;
+                padding:2%;
+                width: 70%;
+                margin: 2px;
+                
+            }
+            .logbuttonin{
+                 margin-top: 5px;
+                 padding:3%;
+                 color:white;
+                 width: 20%;
+                 background-color:green;
+                 margin-bottom: 20px;
+            }
+            .para{
+                 float: left;
+                 padding-left: 5px;
+                 font-size: 15px;
+                 color: aliceblue;
+            }
+            .signup-button
+            {
+                float:left;
+                
+                
+            }
+
+.main-footer{
+    text-align: center;
+    padding:5%;
+    background-color:black;
+}
+
+
+
+
+
+
+/*navbar text color by maruf
+=============================*/
+.navbar-position ul li a{
+    color: white;
+}
+
+.navbar-position ul li a:hover{
+    color:#3e3c3c;
+}
+.nvbar{
+    color: #191818;
+    background: gray;
+}
